@@ -1,0 +1,1 @@
+/media/endale/Data/fastime/weCourierDeliveryApp/build/app/intermediates/cxx/Debug/6c1c1i2y/obj/arm64-v8a

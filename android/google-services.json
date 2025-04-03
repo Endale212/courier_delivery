@@ -1,0 +1,34 @@
+{
+  "project_info": {
+
+    "project_number": "3413235311",
+   
+    "project_id": "fasttime-express-cb904",
+   
+    "storage_bucket": "fasttime-express-cb904.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+     
+        "mobilesdk_app_id": "1:3413235311:android:793aeb296fbd42d86b5f9a",
+        "android_client_info": {
+          "package_name": "fast_time_express.delivery.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+        
+          "current_key": "AIzaSyDOlUpvmCMsE4RBbKfjgjPZr4nVTIFsU_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

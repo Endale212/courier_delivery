@@ -1,0 +1,5 @@
+ /* messagingSenderId:project_number
+   projectId
+     authDomain:storage_bucket
+     appId:mobilesdk_app_id
+      apiKey:current_key */

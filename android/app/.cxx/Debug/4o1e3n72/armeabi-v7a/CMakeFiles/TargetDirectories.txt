@@ -1,0 +1,2 @@
+/media/endale/Data/fastime/weCourierDeliveryApp/android/app/.cxx/Debug/4o1e3n72/armeabi-v7a/CMakeFiles/edit_cache.dir
+/media/endale/Data/fastime/weCourierDeliveryApp/android/app/.cxx/Debug/4o1e3n72/armeabi-v7a/CMakeFiles/rebuild_cache.dir
